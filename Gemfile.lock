@@ -77,6 +77,8 @@ GEM
     erubi (1.7.1)
     execjs (2.7.0)
     ffi (1.9.25-x64-mingw32)
+    filepicker-rails (2.1.0)
+      rails (>= 3.2)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     i18n (1.0.1)
@@ -193,6 +195,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   duktape
+  filepicker-rails
   jbuilder (~> 2.5)
   pg
   puma (~> 3.11)
